@@ -1,0 +1,16 @@
+bert-score==0.3.13
+datasets==3.6.0
+huggingface-hub==0.33.2
+lightgbm==4.6.0
+matplotlib==3.10.3
+numpy==2.2.6
+openai==1.93.0
+pandas==2.3.0
+requests==2.32.4
+scikit-learn==1.7.0
+tokenizers==0.21.2
+torch==2.7.1
+tqdm==4.67.1
+transformers==4.53.1
+xgboost==3.0.2
+
