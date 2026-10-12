@@ -49,7 +49,3 @@ pip install -r requirements.txt
 ```
 
 ---
-
-## ℹ️ Note
-
-This repository is actively under development. We have uploaded the majority of the core code, and additional modules, documentation, and refinements will be released as soon as possible. Thank you for your understanding and support.
